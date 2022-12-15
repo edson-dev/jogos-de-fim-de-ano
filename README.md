@@ -1,1 +1,4 @@
 # jogos-de-fim-de-ano
+A loja de marcas Imagina sempre teve um controle pouco rigido dos cadastros de seus cliente, deixando que estes adicionassem informações sem validação na planilha de controle que usavam para registrar as vendas, porém com o avanso a loja teve que mudar seu estado de micro empresario para simples nacional, e isto acareta em novas responsabilidades. Sendo a primeira eles devem fazer lançamento de notas fiscais para as vendas superioras a 100 reais, porém se enviarem notas fiscais falsas para a receita federal, podera acaretar em um processo.
+
+Por isso você esta sendo contratada para criar um programa para avaliar a base de dados do cliente contendo mais de 3 milhões de registros,logo usando o arquivo de amostra fornecido, deve-se validar as informações fornecidas e caso forem falsas informar ao usuario quais os clientes deveram ser acionados para obtenção das informações verdadeiras.
